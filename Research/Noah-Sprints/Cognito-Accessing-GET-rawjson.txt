@@ -1,0 +1,85 @@
+{
+    "login": {
+        "Users": [
+            {
+                "Username": "f4d8e488-2011-7079-cb28-aaf547195695",
+                "Attributes": [
+                    {
+                        "Name": "email",
+                        "Value": "drew8@clemson.edu"
+                    },
+                    {
+                        "Name": "email_verified",
+                        "Value": "true"
+                    },
+                    {
+                        "Name": "sub",
+                        "Value": "f4d8e488-2011-7079-cb28-aaf547195695"
+                    }
+                ],
+                "UserCreateDate": "2024-03-01T14:34:33.759Z",
+                "UserLastModifiedDate": "2024-03-01T14:35:21.936Z",
+                "Enabled": true,
+                "UserStatus": "CONFIRMED"
+            },
+            {
+                "Username": "d4f86408-9091-7044-c053-21b7b72a1191",
+                "Attributes": [
+                    {
+                        "Name": "email",
+                        "Value": "nnining@clemson.edu"
+                    },
+                    {
+                        "Name": "email_verified",
+                        "Value": "true"
+                    },
+                    {
+                        "Name": "name",
+                        "Value": "Noah"
+                    },
+                    {
+                        "Name": "custom:status",
+                        "Value": "Accessible"
+                    },
+                    {
+                        "Name": "custom:user_role",
+                        "Value": "Admin"
+                    },
+                    {
+                        "Name": "sub",
+                        "Value": "d4f86408-9091-7044-c053-21b7b72a1191"
+                    }
+                ],
+                "UserCreateDate": "2024-03-04T14:19:52.771Z",
+                "UserLastModifiedDate": "2024-03-07T19:17:00.759Z",
+                "Enabled": true,
+                "UserStatus": "CONFIRMED"
+            },
+            {
+                "Username": "74e874b8-b0c1-7079-a18a-9302a68f12d3",
+                "Attributes": [
+                    {
+                        "Name": "email",
+                        "Value": "gtfinne@clemson.edu"
+                    },
+                    {
+                        "Name": "email_verified",
+                        "Value": "true"
+                    },
+                    {
+                        "Name": "name",
+                        "Value": "thomas"
+                    },
+                    {
+                        "Name": "sub",
+                        "Value": "74e874b8-b0c1-7079-a18a-9302a68f12d3"
+                    }
+                ],
+                "UserCreateDate": "2024-02-28T23:40:17.366Z",
+                "UserLastModifiedDate": "2024-03-07T19:08:50.585Z",
+                "Enabled": true,
+                "UserStatus": "CONFIRMED"
+            }
+        ]
+    }
+}
